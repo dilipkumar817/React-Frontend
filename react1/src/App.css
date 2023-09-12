@@ -1,0 +1,20 @@
+.my-app{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  background-color: beige;
+}
+
+.my-form .form-group .form-control{
+  border: black solid 2px;
+}
+#home{
+  padding-top: 3%;
+  background-color: rgb(193, 227, 237);
+}
+#a,#b,#c,#d,#e{
+  
+ padding: 5%;
+ text-decoration: none;
+
+}
+
